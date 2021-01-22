@@ -10,7 +10,8 @@ def func(mylist):
                 add = True
 
 
+
     return total
-lt=[2,3,4,6,8,10,9,1,2,6,5,4,9,3]
+lt=[2,6,8,10,9,1]
 
 print(func(lt))
