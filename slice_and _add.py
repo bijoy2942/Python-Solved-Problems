@@ -1,4 +1,4 @@
-def func(mylist):
+#def func(mylist):
     total = 0
     add = True
     for i in mylist:
@@ -15,3 +15,6 @@ def func(mylist):
                 add = True
                 break
     return total
+print(func([1,2,6,7,9,3,5]))#
+
+
