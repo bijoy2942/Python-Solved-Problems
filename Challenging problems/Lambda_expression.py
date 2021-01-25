@@ -1,2 +1,2 @@
-mylis = [1, 2, 3, 4, 5, 6]
-print(list(map(lambda rt: rt ** 2, mylis)))
+mylis = ['bijoy', 'anand', 'aka', 'gitu', 'yasser', 'pogo']
+print(list(map(lambda rt: rt[::-1], mylis)))
